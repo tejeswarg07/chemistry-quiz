@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "subject": "Organic Chemistry",
+    "topic": "Reaction Mechanisms",
+    "difficulty": "Medium",
+    "question": "Which of the following reactions proceeds through an SN2 mechanism?",
+    "options": {
+      "A": "Tertiary alkyl halide with NaOH (aqueous)",
+      "B": "Primary alkyl halide with NaCN (acetone)",
+      "C": "Tertiary alkyl halide with concentrated H2SO4",
+      "D": "Secondary alkyl halide with AgNO3 (ethanol)"
+    },
+    "answer": "B",
+    "explanation": "SN2 favours primary substrates and strong nucleophiles in polar aprotic solvents. Primary alkyl halide + NaCN in acetone is the classic SN2 condition."
+  },
+  {
+    "id": 2,
+    "subject": "Organic Chemistry",
+    "topic": "Stereochemistry",
+    "difficulty": "Hard",
+    "question": "How many stereoisomers are possible for 2,3-dichlorobutane?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "B",
+    "explanation": "2,3-dichlorobutane has 2 chiral centres but one combination gives a meso compound (achiral due to internal plane of symmetry), so total stereoisomers = 3 (2 enantiomers + 1 meso)."
+  },
+  {
+    "id": 3,
+    "subject": "Organic Chemistry",
+    "topic": "Named Reactions",
+    "difficulty": "Easy",
+    "question": "Aldol condensation is given by which class of compounds?",
+    "options": {
+      "A": "Compounds containing only –COOH group",
+      "B": "Compounds containing at least one alpha-hydrogen next to a carbonyl group",
+      "C": "Compounds with only ketone groups",
+      "D": "Aromatic compounds with –OH group"
+    },
+    "answer": "B",
+    "explanation": "Aldol condensation requires at least one alpha-hydrogen adjacent to a carbonyl (C=O) group. This H is acidic enough to form an enolate that attacks another carbonyl."
+  },
+  {
+    "id": 4,
+    "subject": "Physical Chemistry",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "question": "For a spontaneous process at constant temperature and pressure, which condition must be satisfied?",
+    "options": {
+      "A": "ΔG > 0",
+      "B": "ΔH > 0",
+      "C": "ΔG < 0",
+      "D": "ΔS < 0"
+    },
+    "answer": "C",
+    "explanation": "Gibbs free energy (ΔG = ΔH – TΔS) must be negative for a spontaneous process at constant T and P. ΔG < 0 is the fundamental criterion of spontaneity."
+  },
+  {
+    "id": 5,
+    "subject": "Inorganic Chemistry",
+    "topic": "Coordination Compounds",
+    "difficulty": "Hard",
+    "question": "What is the IUPAC name of [Cu(NH3)4]SO4?",
+    "options": {
+      "A": "Copper(II) tetraammine sulphate",
+      "B": "Tetraamminecopper(II) sulphate",
+      "C": "Tetraammine copper sulphate(II)",
+      "D": "Copper tetraammine(II) sulphate"
+    },
+    "answer": "B",
+    "explanation": "IUPAC rule: name the ligands first (tetraammine = 4 NH3), then the metal with oxidation state in Roman numerals (copper(II)), followed by the counter ion (sulphate)."
+  },
+  {
+    "id": 6,
+    "subject": "Organic Chemistry",
+    "topic": "Synthesis",
+    "difficulty": "Medium",
+    "question": "Which reagent is used to convert a primary alcohol to an aldehyde without further oxidation to carboxylic acid?",
+    "options": {
+      "A": "KMnO4 / H2SO4",
+      "B": "K2Cr2O7 / H2SO4",
+      "C": "PCC (Pyridinium chlorochromate)",
+      "D": "Conc. HNO3"
+    },
+    "answer": "C",
+    "explanation": "PCC is a mild oxidizing agent in anhydrous conditions that stops oxidation at the aldehyde stage. KMnO4 and K2Cr2O7 in acidic medium over-oxidize to carboxylic acid."
+  },
+  {
+    "id": 7,
+    "subject": "Physical Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "question": "What happens to the conductivity of an electrolytic solution when it is diluted?",
+    "options": {
+      "A": "Specific conductance increases, molar conductance decreases",
+      "B": "Both specific and molar conductance increase",
+      "C": "Specific conductance decreases, molar conductance increases",
+      "D": "Both decrease"
+    },
+    "answer": "C",
+    "explanation": "On dilution, ions are further apart so specific conductance (conductance per unit volume) decreases. But molar conductance increases because more ions are available per mole due to greater dissociation."
+  },
+  {
+    "id": 8,
+    "subject": "Organic Chemistry",
+    "topic": "Aromatic Compounds",
+    "difficulty": "Medium",
+    "question": "Nitration of benzene is an example of which type of reaction?",
+    "options": {
+      "A": "Nucleophilic addition",
+      "B": "Electrophilic substitution",
+      "C": "Nucleophilic substitution",
+      "D": "Free radical addition"
+    },
+    "answer": "B",
+    "explanation": "Benzene undergoes Electrophilic Aromatic Substitution (EAS). The nitronium ion (NO2+) acts as the electrophile attacking the electron-rich pi system of benzene."
+  },
+  {
+    "id": 9,
+    "subject": "Inorganic Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Easy",
+    "question": "Which of the following elements has the highest electronegativity?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Chlorine",
+      "D": "Fluorine"
+    },
+    "answer": "D",
+    "explanation": "Fluorine has the highest electronegativity (4.0 on Pauling scale) of all elements. Electronegativity generally increases across a period and decreases down a group."
+  },
+  {
+    "id": 10,
+    "subject": "Organic Chemistry",
+    "topic": "Biomolecules",
+    "difficulty": "Easy",
+    "question": "Which bond links amino acids together in a protein?",
+    "options": {
+      "A": "Glycosidic bond",
+      "B": "Ester bond",
+      "C": "Peptide bond",
+      "D": "Hydrogen bond"
+    },
+    "answer": "C",
+    "explanation": "Amino acids are linked by peptide bonds (–CO–NH–), formed by a condensation reaction between the –COOH group of one amino acid and the –NH2 group of another."
+  },
+  {
+    "id": 11,
+    "subject": "Physical Chemistry",
+    "topic": "Chemical Kinetics",
+    "difficulty": "Hard",
+    "question": "For a first-order reaction, if the initial concentration doubles, the half-life will:",
+    "options": {
+      "A": "Double",
+      "B": "Halve",
+      "C": "Remain the same",
+      "D": "Become four times"
+    },
+    "answer": "C",
+    "explanation": "For a first-order reaction, t½ = 0.693/k. Half-life is independent of initial concentration — it depends only on the rate constant k. This is a unique property of first-order reactions."
+  },
+  {
+    "id": 12,
+    "subject": "Inorganic Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "question": "What is the shape of the SF6 molecule?",
+    "options": {
+      "A": "Trigonal bipyramidal",
+      "B": "Octahedral",
+      "C": "Square planar",
+      "D": "Pentagonal bipyramidal"
+    },
+    "answer": "B",
+    "explanation": "SF6 has 6 bonding pairs and 0 lone pairs around the central S atom (sp3d2 hybridization), giving a perfect octahedral geometry with all F–S–F bond angles of 90°."
+  }
+]
